@@ -1,0 +1,7 @@
+---
+name: SEGA
+version: 1.0.0
+main: SEGA\Loader
+api: 4.2.0
+load: POSTWORLD
+...
