@@ -1,0 +1,13 @@
+---
+Kills:
+  x: 100
+  y: 100
+  z: 100
+  world: "world"
+
+Deaths:
+  x: 100
+  y: 110
+  z: 100
+  world: "world"
+...
